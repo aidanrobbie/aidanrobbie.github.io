@@ -1,5 +1,5 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
+title: "environment test page"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here/
+permalink: /environment-test/
 
 toc: true
 toc_sticky: true

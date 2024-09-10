@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /characters/third-degree/
+permalink: /third-degree/
 
 toc: true
 toc_sticky: true
@@ -15,3 +15,5 @@ toc_sticky: true
 date: 2024-09-10
 last_modified_at: 2024-09-10
 ---
+
+Third Degree, oh no!

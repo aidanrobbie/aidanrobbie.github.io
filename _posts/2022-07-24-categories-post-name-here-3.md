@@ -1,13 +1,13 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "Test Post"
+excerpt: "A hee hee a hoo hoo"
 
 categories:
-  - Categories3
+  - Blog
 tags:
   - [tag1, tag2]
 
-permalink: /categories3/post-name-here-3/
+permalink: /test-Blog-Post/
 
 toc: true
 toc_sticky: true
