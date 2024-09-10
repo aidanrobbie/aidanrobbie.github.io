@@ -1,7 +1,7 @@
 ---
 title: "Animation"
 layout: category
-permalink: /categories/Animation/
+permalink: /categories/categories1/
 author_profile: true
 taxonomy: Categories1
 sidebar:
