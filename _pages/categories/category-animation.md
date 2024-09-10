@@ -5,7 +5,7 @@ permalink: /categories/animation/
 author_profile: true
 taxonomy: Animation
 sidebar:
-  nav: "animation"
+  nav: "categories"
 header:
   video:
     id: rsfCpTBnk_E
