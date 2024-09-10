@@ -1,11 +1,11 @@
 ---
 title: "Animation"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/animation/
 author_profile: true
-taxonomy: Categories1
+taxonomy: Animation
 sidebar:
-  nav: "categories"
+  nav: "animation"
 header:
   video:
     id: rsfCpTBnk_E
