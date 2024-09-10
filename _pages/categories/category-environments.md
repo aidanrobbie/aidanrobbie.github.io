@@ -3,7 +3,7 @@ title: "Environments"
 layout: category
 permalink: /categories/environments/
 author_profile: true
-taxonomy: environments
+taxonomy: Environments
 sidebar:
   nav: "categories"
 ---
