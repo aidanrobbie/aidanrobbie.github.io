@@ -6,11 +6,6 @@ author_profile: true
 taxonomy: Animation
 sidebar:
   nav: "categories"
-header:
-  video:
-    id: rsfCpTBnk_E
-    provider: youtube
-
 ---
 
 {% include video id="rsfCpTBnk_E" provider="youtube" %}
