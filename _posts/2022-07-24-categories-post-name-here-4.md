@@ -1,6 +1,6 @@
 ---
 title: "Animation Test Page"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+excerpt: "animation test bio"
 
 categories:
   - animation

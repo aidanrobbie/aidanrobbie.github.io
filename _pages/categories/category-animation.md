@@ -3,7 +3,7 @@ title: "Animation"
 layout: category
 permalink: /categories/animation/
 author_profile: true
-taxonomy: Animation
+taxonomy: animation
 sidebar:
   nav: "categories"
 ---

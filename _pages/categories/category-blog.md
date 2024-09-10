@@ -3,7 +3,7 @@ title: "My Blog!"
 layout: category
 permalink: /categories/blog/
 author_profile: true
-taxonomy: Blog
+taxonomy: blog
 sidebar:
   nav: "categories"
 ---

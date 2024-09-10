@@ -1,6 +1,6 @@
 ---
 title: "environment test page"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+excerpt: "environment test bio"
 
 categories:
   - environments
