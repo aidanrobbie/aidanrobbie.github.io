@@ -3,7 +3,7 @@ title: "Third Degree"
 excerpt: "Character development and design for Masters project"
 
 categories:
-  - Characters
+  - characters
 tags:
   - [tag1, tag2]
 

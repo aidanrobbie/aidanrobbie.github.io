@@ -3,7 +3,7 @@ title: "Test Post"
 excerpt: "A hee hee a hoo hoo"
 
 categories:
-  - Blog
+  - blog
 tags:
   - [tag1, tag2]
 
