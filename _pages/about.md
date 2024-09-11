@@ -6,3 +6,6 @@ comments: false
 ---
 
 Welcome to my page!
+
+- [ ] Read sci-fi
+- [x] Watch kaiju movie
