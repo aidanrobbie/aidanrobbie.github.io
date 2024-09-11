@@ -4,6 +4,8 @@ excerpt: "Character development and design for Masters project"
 
 categories:
   - characters
+  - blog
+  
 tags:
   - [tag1, tag2]
 

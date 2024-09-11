@@ -4,6 +4,8 @@ excerpt: "animation test bio"
 
 categories:
   - animation
+  - blog
+  
 tags:
   - [tag1, tag2]
 

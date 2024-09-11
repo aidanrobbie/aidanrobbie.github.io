@@ -4,6 +4,8 @@ excerpt: "environment test bio"
 
 categories:
   - environments
+  - blog
+  
 tags:
   - [tag1, tag2]
 
