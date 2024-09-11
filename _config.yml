@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "en-US" #"en-US"
-title: "aidan folio (^o^)丿" # 상단 헤더에 보이는 블로그 명
+title: "" # 상단 헤더에 보이는 블로그 명 aidan folio (^o^)丿
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Aidan Robbie" # 블로그 닉네임 설정
